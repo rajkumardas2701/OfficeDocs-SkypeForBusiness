@@ -65,7 +65,13 @@ This is what the report looks like.
 *    **Country Minute Pool** is the license usage location of the user(s) who share the minute pool. 
 *    **Used Minutes** is the number of minutes used each month.
 *    **Total Minutes** is the total number of minutes available for the month. 
-*    **Percent Used** is the percent of minutes used for the month. 
+*    **Percent Used** is the percent of minutes used for the month.
+*     Bifurcation of the PSTN minute Pools
+      Domestic/International users share minutes among themselves
+      Light plan users share minutes among themselves
+      <<We also need to add calculations of the Minutes added per Licenses (Domestic/International and Audio conferencing)>>
+
+
 ***
 ![Number 2](../images/sfbcallout2.png)<br/>Click to drag a column to **To group by a particular column, drag and drop the column header here** if you want to create a view that groups all of the data in one or more columns. 
 ***
